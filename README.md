@@ -11,7 +11,7 @@
 cd practic_work_1/
 pip install -r requirements.txt
 ```
->[!note] 
+>[!note] Примечание
 > В 6 задании API было взято с сайта restcountries.com  
 
 
